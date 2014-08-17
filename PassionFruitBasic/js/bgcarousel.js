@@ -1,13 +1,4 @@
-/* Background Image Carousel
-* Created: Jan 17th, 2012 by DynamicDrive.com. This notice must stay intact for usage 
-* Author: Dynamic Drive at http://www.dynamicdrive.com/
-* Visit http://www.dynamicdrive.com/ for full source code
-*/
 
-//** Modified Jan 23th, 12'- Fixed bug with auto rotate bug in "manual" mode
-//** Modified Feb 21st, 12'- Fixed bug with carousel not always initializing in IE8 and less
-//** Modified June 26th, 14 to v1.1': Flexible carousel dimensions now supported, swipe to navigate added, plus other minor enhancements.
-//** Modified June 27th, 14: Fixed nav buttons fade in/out issue
 
 jQuery.noConflict()
 
