@@ -1,0 +1,52 @@
+.gridcontainer{
+width:1550px;
+height:450px;
+background:linear-gradient(135deg, black 2%, #CCA300 80%);
+display:block;
+}
+
+.gridcontainer h2{
+font: 22px normal rockwell;
+color:#FFCC00;
+padding-top:20px;
+padding-left:35px;
+}
+ #grid1, #grid2, #grid3{
+display:inline-block;
+}
+.gridimage{
+margin-left:20px;
+}
+
+.gridimage a{
+display:block;
+
+}
+
+.gridbutton {
+width:450px;
+height:50px;
+background:linear-gradient(180deg, #FFDB4D 1%, #66523D 99%);
+margin-top:-5px;
+}
+
+.gridbutton a{
+padding-top:10px;
+font:22px normal rockwell;
+margin-left: 150px;
+text-decoration:none;
+color:#000;
+}
+.gridbutton1 {
+width:450px;
+height:50px;
+background:linear-gradient(180deg, #FFDB4D 1%, #66523D 99%);
+margin-top:-5px;
+}
+.gridbutton1 a{
+padding-top:10px;
+font:22px normal rockwell;
+margin-left: 180px;
+text-decoration:none;
+color:#000;
+}
